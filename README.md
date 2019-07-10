@@ -1,0 +1,2 @@
+# FifthglyphLocatorAndSubstitutionProgram
+Python program intrinsically contains 0 fifthglyphs
